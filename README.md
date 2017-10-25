@@ -7,6 +7,8 @@ The test has been done without that spread test.
 The actual code opens positions of 0.05 lots.
 The robot analyzes all the financial securities that are in the Market watch window of Metatrader 4.
 
+It works best in 1-minute timeframe, but if you attach this expert advisor to any other timeframe then it will calculate RSI and Ichimoku data in accordance with the current timeframe.
+
 IF YOU USE THIS, YOU MUST KEEP AN EYE CONSTANTLY ON YOUR TRADE POSITIONS.
 IF THE TRADE SEEMS NOT GOOD THEN YOU HAVE TO GET OUT OF IT OR PLACE A UNCONDITIONAL STOP LOSS LEVEL.
 
