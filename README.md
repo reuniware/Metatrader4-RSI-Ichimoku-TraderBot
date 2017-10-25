@@ -8,4 +8,7 @@ The actual code opens positions of 0.05 lots.
 The robot analyzes all the financial securities that are in the Market watch window of Metatrader 4.
 
 IF YOU USE THIS, YOU MUST KEEP AN EYE CONSTANTLY ON YOUR TRADE POSITIONS.
-IF THE TRADE SEEMS NOT GOOD 
+IF THE TRADE SEEMS NOT GOOD THEN YOU HAVE TO GET OUT OF IT OR PLACE A UNCONDITIONAL STOP LOSS LEVEL.
+
+HAVE FUN !
+
