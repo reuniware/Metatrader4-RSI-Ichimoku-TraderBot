@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                                 RsiIchimokuTraderBot1.mq4 |
-//|                     Copyright 2017, investdata.000webhostapp.com |
+//|                     Copyright 2017, ichimokuscanner.000webhostapp.com |
 //|                             https://ichimoku-expert.blogspot.com |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2017, investdata.000webhostapp.com"
